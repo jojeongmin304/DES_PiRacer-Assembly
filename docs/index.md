@@ -9,10 +9,6 @@ Assemble your own learning object - PiRacer
 40 hours / 1 week
 
 
-## Experience Points
-100
-
-
 ## Skills
 * DIY
 * HW Assembly
