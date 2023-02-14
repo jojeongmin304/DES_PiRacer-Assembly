@@ -3,16 +3,16 @@
 </br>
 
 # Index
-### [Introduction](#introduction-1)
-### [Project Description](#project-description-1)
-### [Project Goals & Objectives](#project-goals-and-objectives)
-### [Project Requirements](#project-requirements-1)
-### [Project Timeline](#project-timeline-1)
-### [Project Assessment](#project-assessment-1)
-### [Collaboration and Teamwork](#collaboration-and-teamwork-1)
-### [Mentorship and Support](#mentorship-and-support-1)
-### [Reflection and Self-Assessment](#reflection-and-self-assessment-1)
-### [Conclusion](#conclusion-1)
+#### [Introduction](#introduction-1)
+#### [Project Description](#project-description-1)
+#### [Project Goals & Objectives](#project-goals-and-objectives)
+#### [Project Requirements](#project-requirements-1)
+#### [Project Timeline](#project-timeline-1)
+#### [Project Assessment](#project-assessment-1)
+#### [Collaboration and Teamwork](#collaboration-and-teamwork-1)
+#### [Mentorship and Support](#mentorship-and-support-1)
+#### [Reflection and Self-Assessment](#reflection-and-self-assessment-1)
+#### [Conclusion](#conclusion-1)
 </br>
 
 # Introduction
