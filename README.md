@@ -1,9 +1,6 @@
-# **DES Project - PiRacer Assembly**
-## PiRacer / PiRacerPro / PiRacerEvo / PiRacerMicro  
-</br>
+# **DES Project - PiRacer Assembly** (PiRacer / PiRacerPro / PiRacerEvo / PiRacerMicro)
 
-- [**DES Project - PiRacer Assembly**](#des-project---piracer-assembly)
-  - [PiRacer / PiRacerPro / PiRacerEvo / PiRacerMicro](#piracer--piracerpro--piracerevo--piracermicro)
+- [**DES Project - PiRacer Assembly** (PiRacer / PiRacerPro / PiRacerEvo / PiRacerMicro)](#des-project---piracer-assembly-piracer--piracerpro--piracerevo--piracermicro)
   - [Introduction](#introduction)
   - [Project Description](#project-description)
   - [Project Goals and Objectives](#project-goals-and-objectives)
