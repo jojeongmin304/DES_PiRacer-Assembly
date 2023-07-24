@@ -10,7 +10,7 @@
   - [Collaboration and Teamwork](#collaboration-and-teamwork)
   - [Mentorship and Support](#mentorship-and-support)
   - [Reflection and Self-Assessment](#reflection-and-self-assessment)
-  - [Conclusion](#conclusion)
+  - [Submission](#submission)
   - [Evaluation Form](#evaluation-form)
 
 ## Introduction
@@ -81,9 +81,11 @@ Students will be provided with mentorship and support from the instructor throug
 Students will be encouraged to reflect on their own learning and progress throughout the project. This will be done through self-assessment exercises and through feedback from the instructor and other team members.  
 </br>
 
-## Conclusion
+## Submission
 
-The PiRacer Assembly Project is an exciting project that will provide students with hands-on experience in assembling and testing a single-board computer-based racing car. By working together as a team, students will develop a range of important skills and knowledge, and will have the opportunity to explore the exciting world of robotics and technology. Good luck and have fun!
+Turn in a github repository with following information:
+1. A complete step by step guide of "How to assemble and setup PiRacer" with necessary information on all possible parts.
+</br>
 
 ## Evaluation Form
 > Fill in this [Evaluation Form DES-PiRacer-Assembly](https://docs.google.com/forms/d/e/1FAIpQLSdpjdmAQSzFG3zKjywbLSGoWT4pVMkPEB1XLC57b612oXBbgQ/viewform?usp=sf_link). **You need to collect 2 feedbacks from 2 peers from other than your own team**.
