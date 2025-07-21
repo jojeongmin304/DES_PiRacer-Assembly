@@ -12,12 +12,11 @@ We refered to the Jetrace Assembly Manual in the Waveshare Wiki (https://www.wav
 
 ## Software Setup
 
-
+For the software setup, we have used the piracer python library (https://github.com/SEA-ME/piracer_py) for interfacing with the Jetracer Board. 
 </br>
 
 ## Flow of Information
 
-From the Waveshare Wiki (https://www.waveshare.com/wiki/JetRacer_AI_Kit), a wiring diagram is provided with respect to the connections between the modules in the Jetracer Circuit-Board
+From the Waveshare Wiki (https://www.waveshare.com/wiki/JetRacer_AI_Kit), a wiring diagram is provided with respect to the connections between the modules in the Jetracer Circuit-Board.
 [alt-text]()
-
 </br>
