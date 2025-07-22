@@ -4,30 +4,75 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w2Ui2lzqdlFRNSxCaCsw-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w2Ui2lzqdlFRNSxCaCsw-83" target="w2Ui2lzqdlFRNSxCaCsw-85">
+        <mxCell id="w2Ui2lzqdlFRNSxCaCsw-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="w2Ui2lzqdlFRNSxCaCsw-83" target="w2Ui2lzqdlFRNSxCaCsw-85" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w2Ui2lzqdlFRNSxCaCsw-83" value="gamepad.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w2Ui2lzqdlFRNSxCaCsw-83" value="gamepad.py" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w2Ui2lzqdlFRNSxCaCsw-91" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="w2Ui2lzqdlFRNSxCaCsw-84" target="w2Ui2lzqdlFRNSxCaCsw-85">
+        <mxCell id="w2Ui2lzqdlFRNSxCaCsw-91" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="w2Ui2lzqdlFRNSxCaCsw-84" target="w2Ui2lzqdlFRNSxCaCsw-85" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w2Ui2lzqdlFRNSxCaCsw-84" value="vehicles.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w2Ui2lzqdlFRNSxCaCsw-84" value="vehicles.py" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w2Ui2lzqdlFRNSxCaCsw-85" value="controller.py" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w2Ui2lzqdlFRNSxCaCsw-85" value="controller.py" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="670" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w2Ui2lzqdlFRNSxCaCsw-86" value="dev_fn = /dev/input/js0" style="shape=note;size=20;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="250" width="100" height="100" as="geometry" />
+        <mxCell id="w2Ui2lzqdlFRNSxCaCsw-86" value="dev_fn = /dev/input/js0" style="shape=note;size=20;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="210" y="310" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="w2Ui2lzqdlFRNSxCaCsw-92" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w2Ui2lzqdlFRNSxCaCsw-83" target="w2Ui2lzqdlFRNSxCaCsw-86">
+        <mxCell id="w2Ui2lzqdlFRNSxCaCsw-92" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="w2Ui2lzqdlFRNSxCaCsw-83" target="w2Ui2lzqdlFRNSxCaCsw-86" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="510" as="sourcePoint" />
             <mxPoint x="390" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DSaPIOJ2EWbx4O7N3PU3-1" value="Access via ioctl&lt;div&gt;ButtonMappings&lt;/div&gt;&lt;div&gt;ButtonStatus&lt;/div&gt;&lt;div&gt;Axis Mapping&lt;/div&gt;&lt;div&gt;Axis Status&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DSaPIOJ2EWbx4O7N3PU3-2" value="Shanwan_Gamepad(Joystick)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="610" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSaPIOJ2EWbx4O7N3PU3-3" value="PiRacerStandard(PiRacerBase)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="610" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DSaPIOJ2EWbx4O7N3PU3-5" value="Battery Manager" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSaPIOJ2EWbx4O7N3PU3-6" value="Motor Driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSaPIOJ2EWbx4O7N3PU3-7" value="Servo Driver" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DSaPIOJ2EWbx4O7N3PU3-10" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.068;exitY=-0.265;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DSaPIOJ2EWbx4O7N3PU3-12" target="DSaPIOJ2EWbx4O7N3PU3-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="400" as="sourcePoint" />
+            <mxPoint x="390" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DSaPIOJ2EWbx4O7N3PU3-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.567;exitY=0.284;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DSaPIOJ2EWbx4O7N3PU3-12" target="DSaPIOJ2EWbx4O7N3PU3-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="410" as="sourcePoint" />
+            <mxPoint x="390" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DSaPIOJ2EWbx4O7N3PU3-12" value="I2C" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="440" width="250" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="DSaPIOJ2EWbx4O7N3PU3-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.944;exitY=-0.265;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DSaPIOJ2EWbx4O7N3PU3-12" target="DSaPIOJ2EWbx4O7N3PU3-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="450" as="sourcePoint" />
+            <mxPoint x="723" y="327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DSaPIOJ2EWbx4O7N3PU3-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="w2Ui2lzqdlFRNSxCaCsw-84" target="DSaPIOJ2EWbx4O7N3PU3-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="350" as="sourcePoint" />
+            <mxPoint x="490" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
