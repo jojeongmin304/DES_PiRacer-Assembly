@@ -8,9 +8,11 @@ This document is to show the flow of information from the controller provided by
 ## Hardware Setup
 
 We refered to the Jetrace Assembly Manual in the Waveshare Wiki (https://www.waveshare.com/wiki/JetRacer_Assembly_Manual) for the physical setup of the kit.
-[Raspberrypi 4 B with Rasbian OS](https://www.raspberrypi.com/documentation/computers/getting-started.html)
-[2 Channel CAN BUS FD Shield](https://wiki.seeedstudio.com/2-Channel-CAN-BUS-FD-Shield-for-Raspberry-Pi/)
-[7.9inch Captive Touch Screen](https://www.waveshare.com/7.9inch-hdmi-lcd.htm)
+[Raspberrypi 4 B with Rasbian OS](https://www.raspberrypi.com/documentation/computers/getting-started.html)</br>
+
+[2 Channel CAN BUS FD Shield](https://wiki.seeedstudio.com/2-Channel-CAN-BUS-FD-Shield-for-Raspberry-Pi/)</br>
+
+[7.9inch Captive Touch Screen](https://www.waveshare.com/7.9inch-hdmi-lcd.htm)</br>
 </br>
 
 ## Software Setup
