@@ -41,7 +41,7 @@ This raw data is parsed into a Python object, making the joystick's state (e.g.,
 - To actuate the motors, the calculated value must be sent from the Raspberry Pi's main chip to the specialized chips on the motor  driver board. This chip-to-chip communication is handled by the I2C (Inter-Integrated Circuit) protocol.
     - In this setup, the I2C Master is Raspberry Pi's SoC, while chips on the motor driver board, such as the PCA9685, are I2C Slaves.
 - The communication occurs with the SCL(clock) and SDA(data) lines. 
-An I2C data packet includes both a data and an id of data. 
+An I2C data packet includes both an id of the device and a data to control. 
 The master sends this packet onto the bus.  
 While all slave devices see the signal, only the chip whose id matches will process the accompanying data.
 - The chip on the motor driver board converts data packet into an appopriate PWM signal.
